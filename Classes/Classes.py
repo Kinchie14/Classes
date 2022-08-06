@@ -18,4 +18,8 @@ class Car:
         self.model = model
         self.engine_type = engine_type
         self.engine_size = engine_size
-    
+
+
+motor1 = Motors("HONDA", "R1", "8.5in x 17in", "Black", "V-Twin", "1000cc")
+
+car1 = Car("4Doors", "RED", "Tesla", "X", "AC Induction", "28in x 26in")
